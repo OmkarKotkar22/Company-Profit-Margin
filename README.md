@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Concept-Encapsulation%20%26%20Calculation-4169E1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/repo%20size-5%20KB-32CD32?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Last%20Commit-Now-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Last%20Commit-26/11/2025-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Type-Console%20Application-8A2BE2?style=for-the-badge" />
 </p>
 
